@@ -18,7 +18,7 @@ I am currently in my third year of college studying computer science
 ### Socials
 
 <a href="https://www.linkedin.com/in/maxime-issa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-<p align="left"> <a href="https://leetcode.com/u/Maxx2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" height="32" /> </picture> </a></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 ### Badges
 
