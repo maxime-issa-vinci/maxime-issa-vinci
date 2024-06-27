@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxx
 ============================================================================================================================
 
-I am currently in my second year of college studying computer science
+I am currently in my third year of college studying computer science
 
 * 🌍  I'm based in Belgium
-* ✉️  You can contact me at [maximeissa@gmail.com](mailto:maximeissa@gmail.com)
-* 🧠  I'm learning Python 
+* ✉️  You can contact me at [maximeissa@gmail.com](mailto:maxime.issa@student.vinci.be)
+* 🧠  I'm learning Python and AI
 
 ### Skills
 
