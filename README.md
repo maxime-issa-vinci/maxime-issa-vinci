@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently in my third year of college studying computer science
 
 * 🌍  I'm based in Belgium
-* ✉️  You can contact me at [maximeissa@gmail.com](mailto:maxime.issa@student.vinci.be)
+* ✉️  You can contact me at [maxime.issa@student.vinci.be](mailto:maxime.issa@student.vinci.be)
 * 🧠  I'm learning Python and AI
 
 ### Skills
